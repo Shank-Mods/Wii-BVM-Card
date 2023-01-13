@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name arduino-nano-v3)(type KiCad)(uri "$(KIPRJMOD)/arduino-nano-v3.pretty")(options "")(descr ""))
+  (lib (name din-41612-64p-ra)(type KiCad)(uri "$(KIPRJMOD)/din-41612-64p-ra.pretty")(options "")(descr ""))
+  (lib (name bnc-tht)(type KiCad)(uri "$(KIPRJMOD)/bnc-tht.pretty")(options "")(descr ""))
+)

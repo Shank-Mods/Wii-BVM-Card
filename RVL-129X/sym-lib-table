@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "bkm-129x-simple-rescue")(type "Legacy")(uri "${KIPRJMOD}/bkm-129x-simple-rescue.lib")(options "")(descr ""))
+)
