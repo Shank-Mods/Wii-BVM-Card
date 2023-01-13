@@ -1,5 +1,8 @@
 These are the files I used to create the RVL-129X, a Wii on a BVM card. It is based on Martin's card. This project is essentially me craming his circuit into the corner, and adding pads to 1: solder the controller ports to and 2: bolt the Wii on. Consult his github for more info on the capabilities of the card portion of this project, as well as the software to program the Arduino.
 
+Major Credits to Martin. Heres his github. He was awesome and super helpful. Could not have done this without him. Again, I just copied his homework and bolted a Wii to it. 
+https://github.com/skumlos/bkm-129x-simple
+
 It was a quick and dirty project not originally intended for public release. I am releaseing the files as is due to popular demand. It is cluttered, unoptimized, and made for my specific circumstances and my available parts. Sorry in advance.
 
 Follow the Definitive Wii trimming gudie for information on how to trim and run the Wii. Standard trim. Run YPbPr and audio through shielded wire to the marked pads. SH is ground for shielding. Connect Controller lines to controller pads. 4 Layer Wii highly recommended. Leave the 1.8v LDO on the Wii. Do not connect mode pin to 3.3v if your PVMs are 15khz only, as this enables 31khz.
