@@ -5,7 +5,7 @@ https://github.com/skumlos/bkm-129x-simple
 
 It was a quick and dirty project not originally intended for public release. I am releaseing the files as is due to popular demand. It is cluttered, unoptimized, and made for my specific circumstances and my available parts. Sorry in advance.
 
-Follow the Definitive Wii trimming gudie for information on how to trim and run the Wii. Standard trim. Run YPbPr and audio through shielded wire to the marked pads. SH is ground for shielding. Connect Controller lines to controller pads. 4 Layer Wii highly recommended. Leave the 1.8v LDO on the Wii. Do not connect mode pin to 3.3v if your PVMs are 15khz only, as this enables 31khz.
+Follow the Definitive Wii trimming gudie for information on how to trim and run the Wii. Standard trim. Run YPbPr and audio through shielded wire to the marked pads. SH is ground for shielding. Connect Controller lines to controller pads. 4 Layer Wii highly recommended. Leave the 1.8v LDO on the Wii. Ensure your Wii's settings have the resolution set to 480i if your PVMs are 15khz only. If your system is in 480p mode, you can disconnect the 3.3v-to-mode connection so set the system to composite and svideo mode, and run composite or luma to the Y line on the card for a usable black and white 15khz image that will let you navigate menus. 
 
 The 129x card cannot pass audio through the slot, so audio comes out a 3.5mm jack and into the RCA jacks on the back. 
 
